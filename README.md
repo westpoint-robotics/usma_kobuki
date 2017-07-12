@@ -11,6 +11,6 @@ The default location is usually `\Documents\Arduino\libraries`
 4. Restart Arduino IDE to check if the newly added 'Kobuki' library has been detected. If it has been successfully imported, you must be able to see 'lineFollower' and 'pseudoRandomWalker' sketches under `Files -> Examples -> Kobuki`
 
 
-#### [Kobuki User Guide]()
+#### [Kobuki User Guide](https://github.com/westpoint-robotics/usma_kobuki/blob/master/Kobuki/extras/Kobuki%20User%20Guide.pdf)
 #### [Kobuki.h Manual]()
-#### [Kobuki.h API usage illustrations]()
+#### [Kobuki.h API usage illustrations](https://github.com/westpoint-robotics/usma_kobuki/blob/master/API%20Illustrations.pdf)
