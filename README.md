@@ -12,5 +12,5 @@ The default location is usually `\Documents\Arduino\libraries`
 
 
 #### [Kobuki User Guide](https://github.com/westpoint-robotics/usma_kobuki/blob/master/Kobuki/extras/Kobuki%20User%20Guide.pdf)
-#### [Kobuki.h Manual]()
+#### [Kobuki.h Manual](https://github.com/westpoint-robotics/usma_kobuki/blob/master/Kobuki/extras/Kobuki%20library%20manual.pdf)
 #### [Kobuki.h API usage illustrations](https://github.com/westpoint-robotics/usma_kobuki/blob/master/API%20Illustrations.pdf)
