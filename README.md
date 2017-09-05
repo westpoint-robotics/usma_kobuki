@@ -13,9 +13,9 @@ usma_kobuki
     │   Kobuki.cpp
     └───examples
     |   └───lineFollower
-    |       |   lineFollower.ino
+    |   |       lineFollower.ino
     |   └───pseudoRandomWalker
-    |       |   pseudoRandomWalker.ino 
+    |           pseudoRandomWalker.ino 
     └───extras
         |   Kobuki_library_manual.pdf
         |   Kobuki_User_Guide.pdf
