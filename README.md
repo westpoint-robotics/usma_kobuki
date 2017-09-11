@@ -2,12 +2,10 @@
 Header file to control Kobuki robot base through an Arduino's serial port
 
 ### Instructions to install the library:
-1. Download/clone this repository to your desktop. Extract/Unzip the files.
-2. The file structure of this repo is described below. Verify the contents after you have unzipped the files.
+1. From the XE475 [course folder](\\usmasvddeecs\EECS\Cadet\Courses\XE475\Lab4), copy and paste `Kobuki` to the location where the Arduino IDE stores all libraries. The default location is usually `\Documents\Arduino\libraries`
+2. The file structure is described below. Verify its contents after you have copied the `Kobuki` library folder.
 ```
-usma_kobuki
-│   README.md    
-└───Kobuki
+   Kobuki
     │   keywords.txt
     │   Kobuki.h
     │   Kobuki.cpp
@@ -22,7 +20,6 @@ usma_kobuki
         |   API_Illustrations.pdf
         |   Kobuki_Protocol_Specification.pdf
 ```
-3. Move the `Kobuki` folder and its contents to the location where the Arduino IDE stores all libraries. The default location is usually `\Documents\Arduino\libraries`
 4. Restart Arduino IDE to check if the newly added 'Kobuki' library has been detected. If it has been successfully imported, you must be able to see 'lineFollower' and 'pseudoRandomWalker' sketches under `Files -> Examples -> Kobuki`
 
 
