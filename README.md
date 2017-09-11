@@ -28,5 +28,5 @@ usma_kobuki
 
 ### Quick links:
 ------------------------------------------------------------------------------
-#### [Kobuki User Guide](https://github.com/westpoint-robotics/usma_kobuki/blob/master/Kobuki/extras/Kobuki%20User%20Guide.pdf)
-#### [Kobuki.h Manual](https://github.com/westpoint-robotics/usma_kobuki/blob/master/Kobuki/extras/Kobuki%20library%20manual.pdf)
+#### [Kobuki User Guide](https://github.com/westpoint-robotics/usma_kobuki/blob/master/Kobuki%20-%20User%20Guide.pdf)
+#### [Kobuki.h Manual](https://github.com/westpoint-robotics/usma_kobuki/blob/master/Kobuki%20library%20manual.pdf)
