@@ -20,7 +20,7 @@ Header file to control Kobuki robot base through an Arduino's serial port
         |   API_Illustrations.pdf
         |   Kobuki_Protocol_Specification.pdf
 ```
-4. Restart Arduino IDE to check if the newly added 'Kobuki' library has been detected. If it has been successfully imported, you must be able to see 'lineFollower' and 'pseudoRandomWalker' sketches under `Files -> Examples -> Kobuki`
+3. Restart Arduino IDE to check if the newly added 'Kobuki' library has been detected. If it has been successfully imported, you must be able to see 'lineFollower' and 'pseudoRandomWalker' sketches under `Files -> Examples -> Kobuki`
 
 
 ### Quick links:
