@@ -2,7 +2,7 @@
 Header file to control Kobuki robot base through an Arduino's serial port
 
 ### Instructions to install the library:
-1. From the XE475 [course folder](\\usmasvddeecs\EECS\Cadet\Courses\XE475\Lab4), copy and paste `Kobuki` to the location where the Arduino IDE stores all libraries. The default location is usually `\Documents\Arduino\libraries`
+1. From the XE475 course folder(\\usmasvddeecs\EECS\Cadet\Courses\XE475\Lab4), copy and paste `Kobuki` to the location where the Arduino IDE stores all libraries. The default location is usually `\Documents\Arduino\libraries`
 2. The file structure is described below. Verify its contents after you have copied the `Kobuki` library folder.
 ```
    Kobuki
